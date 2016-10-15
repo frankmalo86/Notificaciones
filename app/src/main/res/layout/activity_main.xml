@@ -17,4 +17,9 @@
         android:text="@string/lanzar_notificacion"
         android:layout_centerHorizontal="true"
         android:onClick="lanzarNotificacion"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Prueba"/>
 </RelativeLayout>
